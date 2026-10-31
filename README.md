@@ -23,5 +23,5 @@ No es una app para aprender a programar, sino un **gimnasio mental** para recupe
 *   [Análisis técnico y de mercado](./analisis.md)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+    *Diseñada explícitamente para volverse innecesaria. El éxito no es retenerte, es hacerte libre de la máquina.*+
+     +*Diseñada explícitamente para volverse innecesaria. El éxito no es retenerte, es hacerte libre de la máquina.*+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
